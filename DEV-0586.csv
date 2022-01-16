@@ -5,3 +5,4 @@
 1/14/2022,cmd.exe /Q /c start C:\\temp\\stage1.exe 1>,CommandLine,White
 1/14/2022,cmd.exe /Q /c start C:\\ProgramData\\stage1.exe 1>,CommandLine,White
 1/14/2022,cmd.exe /Q /c start C:\\PerfLogs\\stage1.exe 1>,CommandLine,White
+1/14/2022,pmfexe.exe" -PerfMode optimize -quickscaninverse -event -alldetectors,CommandLine,White
